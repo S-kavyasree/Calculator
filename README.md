@@ -21,14 +21,14 @@ A Python Tkinter GUI calculator supporting basic arithmetic, scientific, and com
 
 ---
 
-## **Development Approach **
-- GUI designed with **Tkinter** for a professional layout  
-- Buttons and input parsed using **regex** and **math module**  
+## Development Approach
+- GUI designed with Tkinter for a professional layout  
+- Buttons and input parsed using regex and math module 
 - Handles errors gracefully and removes extra white space for clarity
 
  --- 
 
- ## **Future Improvements **
+ ## Future Improvements 
  keyboard input, dark mode toggle, memory functions (M+, M-, MR), extended scientific operations
 
 
